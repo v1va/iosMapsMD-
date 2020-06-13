@@ -1,0 +1,6 @@
+framework module Pods_maps_md3 {
+  umbrella header "Pods-maps_md3-umbrella.h"
+
+  export *
+  module * { export * }
+}
