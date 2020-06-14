@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		401A303E24925FFF008F848A /* Venue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401A303D24925FFF008F848A /* Venue.swift */; };
-		401A30402492AF40008F848A /* Venues.json in Resources */ = {isa = PBXBuildFile; fileRef = 401A303F2492AF40008F848A /* Venues.json */; };
 		401A30422492F52B008F848A /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401A30412492F52B008F848A /* AddViewController.swift */; };
 		404430292493CD8D0035A7CB /* FavLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404430282493CD8D0035A7CB /* FavLocation.swift */; };
 		409FD934249037C7008AB239 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409FD933249037C7008AB239 /* AppDelegate.swift */; };
@@ -23,8 +21,6 @@
 
 /* Begin PBXFileReference section */
 		283E3BC1F396126F469CE0AF /* Pods-maps_md3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-maps_md3.debug.xcconfig"; path = "Target Support Files/Pods-maps_md3/Pods-maps_md3.debug.xcconfig"; sourceTree = "<group>"; };
-		401A303D24925FFF008F848A /* Venue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Venue.swift; sourceTree = "<group>"; };
-		401A303F2492AF40008F848A /* Venues.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Venues.json; sourceTree = "<group>"; };
 		401A30412492F52B008F848A /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		404430282493CD8D0035A7CB /* FavLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavLocation.swift; sourceTree = "<group>"; };
 		409FD930249037C7008AB239 /* maps_md3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maps_md3.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,8 +75,6 @@
 				409FD939249037C7008AB239 /* Main.storyboard */,
 				40DFB922249190A40063E6D2 /* GoogleService-Info.plist */,
 				409FD93C249037C8008AB239 /* Assets.xcassets */,
-				401A303D24925FFF008F848A /* Venue.swift */,
-				401A303F2492AF40008F848A /* Venues.json */,
 				409FD93E249037C8008AB239 /* LaunchScreen.storyboard */,
 				409FD941249037C9008AB239 /* Info.plist */,
 				401A30412492F52B008F848A /* AddViewController.swift */,
@@ -170,7 +164,6 @@
 				40DFB923249190A40063E6D2 /* GoogleService-Info.plist in Resources */,
 				409FD93D249037C8008AB239 /* Assets.xcassets in Resources */,
 				409FD93B249037C7008AB239 /* Main.storyboard in Resources */,
-				401A30402492AF40008F848A /* Venues.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,7 +218,6 @@
 			files = (
 				409FD938249037C7008AB239 /* ViewController.swift in Sources */,
 				401A30422492F52B008F848A /* AddViewController.swift in Sources */,
-				401A303E24925FFF008F848A /* Venue.swift in Sources */,
 				409FD934249037C7008AB239 /* AppDelegate.swift in Sources */,
 				409FD936249037C7008AB239 /* SceneDelegate.swift in Sources */,
 				404430292493CD8D0035A7CB /* FavLocation.swift in Sources */,

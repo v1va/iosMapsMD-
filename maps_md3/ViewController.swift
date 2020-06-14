@@ -22,8 +22,7 @@ class ViewController: UIViewController{
     var ref: DatabaseReference!
     var databaseHandle: DatabaseHandle!
     
-    var venues = [Venue]()
-    var favLocations:[FavLocation] = []
+    var favLocations = [FavLocation]()
    
     
     // MARK: - Get data from Firebase DB
